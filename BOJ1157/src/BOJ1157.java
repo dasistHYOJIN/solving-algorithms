@@ -25,6 +25,8 @@ public class BOJ1157 {
 				map.put(str.charAt(i), map.get(str.charAt(i)) + 1);
 		}
 		
+		System.out.println(map);
+		
 		Set<Entry<Character, Integer>> set = map.entrySet();
 		Iterator<Entry<Character, Integer>> itr = set.iterator();
 		int max = 0;
