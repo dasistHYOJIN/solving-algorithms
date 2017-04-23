@@ -42,7 +42,7 @@
 
 **2017. 03. 18**
 + 2775 [부녀회장이 될테야](https://www.acmicpc.net/problem/2775)
-~~+ 2504 [스택 괄호](https://www.acmicpc.net/problem/2504)~~ -> 스택을 모두 한 후에 도전하는 걸로!~~
+~~ + 2504 [스택 괄호](https://www.acmicpc.net/problem/2504) ~~ -> 스택을 모두 한 후에 도전하는 걸로!
 + 2908 [상수](https://www.acmicpc.net/problem/2908)
 
 **2017. 03. 25**
@@ -53,7 +53,7 @@
 **2017. 04. 01**
 + 10828 [스택](https://www.acmicpc.net/problem/10828)
 + 10845 [큐](https://www.acmicpc.net/problem/10845)
-~~+ 1874 [스택 수열](https://www.acmicpc.net/problem/1874)~~ -> 다음 주에 고쳐오기
+~~ + 1874 [스택 수열](https://www.acmicpc.net/problem/1874) ~~ -> 다음 주에 고쳐오기
 
 **2017. 04. 08**
 + 2490 [윷놀이](https://www.acmicpc.net/problem/2490)
@@ -64,3 +64,15 @@
 + 2455 [지능형 기차](https://www.acmicpc.net/problem/2455)
 + 9095 [큐](https://www.acmicpc.net/problem/9095)
 + 6359 [스택 수열](https://www.acmicpc.net/problem/6359)
+
+
+**2017. 04. 22**
++ 2884 [알람 시계](https://www.acmicpc.net/problem/2884)
++ 1764 [듣보잡](https://www.acmicpc.net/problem/1764)
++ 10707 [수도요금](https://www.acmicpc.net/problem/10707)
+
+
+**2017. 04. 29**
++ 2875 [대회 or 인턴](https://www.acmicpc.net/problem/2875)
++ 2863 [이게 분수?](https://www.acmicpc.net/problem/2863)
++ 2864 [5와 6의 차이](https://www.acmicpc.net/problem/2864)
